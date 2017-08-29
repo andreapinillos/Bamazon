@@ -46,8 +46,8 @@ To run the manager interface please follow the steps below:
 		node bamazonManager.js
 
 ### Image Demo
-#### Example of bamazonCustomer.js
+### Example of bamazonCustomer.js
 ![alt text](images/Customer_example.png)
-#### Example of bamazonManger.js
+### Example of bamazonManger.js
 ![alt text](images/manager_option_1_and_2.png)
-![alt text](images/Cmanager_option_3_and_4.png)
+![alt text](images/manager_option_3_and_4.png)
