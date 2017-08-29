@@ -47,7 +47,7 @@ To run the manager interface please follow the steps below:
 
 ### Image Demo
 ### bamazonCustomer.js in the terminal demo
-![alt text](images/customer_example.png)
+![alt text](images/Customer_example.png)
 ### bamazonManger.js in the terminal demo
 ![alt text](images/initialmanager.png)
 ### Adding inventory demo
