@@ -46,8 +46,15 @@ To run the manager interface please follow the steps below:
 		node bamazonManager.js
 
 ### Image Demo
-### Example bamazonCustomer.js in the terminal
-![alt text](images/Customer_example.png)
-### Example of bamazonManger.js in the terminal
-![alt text](images/manager_option_1_and_2.png)
-![alt text](images/manager_option_3_and_4.png)
+### bamazonCustomer.js in the terminal demo
+![alt text](images/customer_example.png)
+### bamazonManger.js in the terminal demo
+![alt text](images/initialmanager.png)
+### Adding inventory demo
+![alt text](images/addinventory.png)
+### Adding a new product demo
+![alt text](images/addnewproduct.png)
+### Low inventory demo
+![alt text](images/lowinventory.png)
+### Products for sale demo
+![alt text](images/productsforsale.png)
