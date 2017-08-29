@@ -1,7 +1,6 @@
 // Pull in required dependencies
 var inquirer = require('inquirer');
 var mysql = require('mysql');
-require('console.table');
 
 // Define the MySQL connection parameters
 var connection = mysql.createConnection({
