@@ -15,8 +15,8 @@ The customer interface allows the user to view the current inventory of store it
 
 To run the customer interface please follow the steps below:
 
-		git clone git@github.com:angrbrd/bamazon.git
-		cd bamazon
+		git clone https://github.com/andreapinillos/Bamazon.git
+		cd Bamazon
 		npm install
 		node bamazonCustomer.js
 
@@ -40,8 +40,8 @@ The **Add New Product** option allows the user to enter details about a new prod
 
 To run the manager interface please follow the steps below:
 
-		git clone git@github.com:angrbrd/bamazon.git
-		cd bamazon
+		git clone https://github.com/andreapinillos/Bamazon.git
+		cd Bamazon
 		npm install
 		node bamazonManager.js
 
