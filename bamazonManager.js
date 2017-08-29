@@ -79,7 +79,8 @@ function displayInventory() {
      		strOut += 'Item ID: ' + data[i].item_id + ' | ';
       		strOut += 'Product Name: ' + data[i].product_name + ' | ';
       		strOut += 'Department: ' + data[i].department_name + ' | ';
-      		strOut += 'Price: $' + data[i].price + '\n';
+      		strOut += 'Price: $' + data[i].price + ' |\n ';
+      		strOut += 'Stock Quantity: ' + data[i].stock_quantity + '\n';
 
 			console.log(strOut);
 		}
@@ -110,7 +111,8 @@ function displayLowInventory() {
       		strOut += 'Item ID: ' + data[i].item_id + ' | ';
       		strOut += 'Product Name: ' + data[i].product_name + ' | ';
       		strOut += 'Department: ' + data[i].department_name + ' | ';
-      		strOut += 'Price: $' + data[i].price + '\n';
+      		strOut += 'Price: $' + data[i].price + ' |\n ';
+      		strOut += 'Stock Quantity: ' + data[i].stock_quantity + '\n';
 
 			console.log(strOut);
 		}
